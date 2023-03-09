@@ -2,8 +2,6 @@ package com.example.pokedex.UI.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.core.os.bundleOf
-import androidx.fragment.app.replace
 import com.example.pokedex.R
 import com.example.pokedex.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
